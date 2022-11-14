@@ -1,0 +1,47 @@
+ref	category	title	tags	price
+B4084600	rings	Love ring	yellow gold	1650
+B4084900	rings	Love ring	platinum	3650
+B4084800	rings	Love ring	pink gold	1650
+B4084700	rings	Love ring	white gold	1770
+B4085000	rings	Love wedding band	yellow gold	1070
+B4085200	rings	Love wedding band	pink gold	1070
+B4085100	rings	Love wedding band	white gold	1140
+B4085300	rings	Love wedding band	platinum	2380
+B4032400	rings	Love ring, 3 diamonds	yellow gold, diamonds	3500
+B4087500	rings	Love ring, 3 diamonds	pink gold, diamonds	3500
+B4032500	rings	Love ring, 3 diamonds	white gold, diamonds	3750
+B6035517	bracelets	Love bracelet	yellow gold	6300
+B6035617	bracelets	Love bracelet	pink gold	6300
+B6035417	bracelets	Love bracelet	white gold	6750
+B6035917	bracelets	Love bracelet, 4 diamonds	yellow gold, diamonds	10100
+B6036017	bracelets	Love bracelet, 4 diamonds	pink gold, diamonds	10100
+B6035817	bracelets	Love bracelet, 4 diamonds	white gold, diamonds	10800
+B6029817	bracelets	Love bracelet, 1 diamond	yellow gold, diamond	5300
+B6029917	bracelets	Love bracelet, 1 diamond	white gold, diamond	5700
+B7212400	necklaces	Love necklace	yellow gold	2160
+B7014600	necklaces	Love necklace, 3 diamonds	white gold, diamonds	4250
+B7212300	necklaces	Love necklace	pink gold	2160
+B7219500	necklaces	Love necklace, 2 diamonds	yellow gold, diamonds	2230
+B7224509	necklaces	Love necklace, 2 diamonds	pink gold, diamonds	2230
+B7212500	necklaces	Love necklace	white gold	2310
+B7219400	necklaces	Love necklace, 2 diamonds	white gold, diamonds	2390
+B7014200	necklaces	Love necklace	yellow gold	3050
+B7014400	necklaces	Love necklace	pink gold	3050
+B7219700	necklaces	Love necklace, 6 diamonds	pink gold, white gold, diamonds	3150
+B7014300	necklaces	Love necklace	white gold	3250
+B7224900	necklaces	Trinity necklace	white gold, yellow gold, pink gold, diamond	3100
+B7224577	necklaces	Trinity necklace	white gold, yellow gold, pink gold	3750
+B7224532	necklaces	Trinity necklace	white gold, diamonds, ceramic	4500
+B3045500	necklaces	Trinity necklace	white gold, ceramic, diamonds	5100
+B7058500	necklaces	Trinity necklace	white gold, yellow gold, pink gold, diamonds	6950
+B8301421	earrings	Love single earring	yellow gold	500
+B8301422	earrings	Love single earring	pink gold	810
+B8301254	earrings	Love earrings	pink gold	1370
+B8301255	earrings	Love earrings	yellow gold	1370
+B8301256	earrings	Love earrings	white gold	1470
+B8301424	earrings	Love single earring	white gold, diamond	1750
+B8028800	earrings	Love earrings	yellow gold	1770
+B8029000	earrings	Love earrings	pink gold	1770
+B8028900	earrings	Love earrings	white gold	1890
+B8022500	earrings	Love earrings	yellow gold	3150
+B8028200	earrings	Love earrings	yellow gold	3750
